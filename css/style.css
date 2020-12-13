@@ -27,7 +27,8 @@ body {
 img.photo {
     width: 30%;
     height: 30%;
-    margin-left: 128px;
+    margin-left: 35%;
+    margin-right: 35%;
 }
 
 
@@ -139,7 +140,9 @@ a {
 
 @media (max-width: 650px) {
     .instagram-wrapper {
-        width: 90%0;
+        width: 90%;
+        margin-left: 35%;
+        margin-right: 35%;
     }
 
     .instagram-phone {
@@ -148,5 +151,6 @@ a {
 
     .instagram-continue {
         width: 100%;
+        margin-left: 9%;
     }
 }
